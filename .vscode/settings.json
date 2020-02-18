@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+      "stdio.h": "c",
+      "esp_spi_flash.h": "c",
+      "spi_master.h": "c",
+      "pretty_effect.h": "c",
+      "decode_image.h": "c",
+      "math.h": "c",
+      "tft.h": "c",
+      "stfx.h": "c",
+      "shared.h": "c",
+      "tjpgd.h": "c",
+      "esp_log.h": "c",
+      "esp_vfs_fat.h": "c",
+      "sdspi_host.h": "c",
+      "*.inc": "c"
+    },
+    //"terminal.integrated.shell.windows":"C:\\WINDOWS\\System32\\cmd.exe"
+}
