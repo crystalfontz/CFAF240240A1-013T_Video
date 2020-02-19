@@ -5,6 +5,9 @@ This example code plays back a video on the [CFAF240240A1-013T](https://www.crys
 
 Also, there's a new extension from Espressif that we haven't tested but will definitely look into, [here](https://marketplace.visualstudio.com/items?itemName=espressif.esp-idf-extension).
 
+## SD Video
+To streamline the program, the video was preprocessed into a raw file. This allows us to read straight from the SD card and put the information directly on the screen. A link to the video file that was used (~805mb file size) can be found [here](https://baxsie.com/images/CFA/Github/BBB_565.raw).
+
 ## Hardware
 * SD Card
 * SD Card Holder
@@ -56,3 +59,6 @@ make -j4 flash monitor
 For a faster build and if the PC has eight cores, -j8 can be used instead of -j4.
 
 (To exit the serial monitor, type ``Ctrl-]``.)
+
+##Copyright info
+The video being played is Big Buck Bunny (c) copyright 2008, Blender Foundation / www.bigbuckbunny.org
