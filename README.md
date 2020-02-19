@@ -60,5 +60,5 @@ For a faster build and if the PC has eight cores, -j8 can be used instead of -j4
 
 (To exit the serial monitor, type ``Ctrl-]``.)
 
-##Copyright info
+## Copyright info
 The video being played is Big Buck Bunny (c) copyright 2008, Blender Foundation / www.bigbuckbunny.org
