@@ -9,8 +9,8 @@ Also, there's a new extension from Espressif that we haven't tested but will def
 To streamline the program, the video was preprocessed into a raw file. This allows us to read straight from the SD card and put the information directly on the screen. A link to the video file that was used (~805mb file size) can be found [here](https://baxsie.com/images/CFA/Github/BBB_565.raw).
 
 ## Hardware
-* SD Card
-* SD Card Holder
+* [uSD Card](https://www.crystalfontz.com/product/cfapn01879-usd-card-4-gb)
+* [uSD Card Holder](https://www.crystalfontz.com/product/cfa10112-sd-card-reader)
   * This code does not use the quad spi capabilities at the moment
 * [ESP32 Dev Kit](https://www.amazon.com/MELIFE-Development-Dual-Mode-Microcontroller-Integrated/dp/B07Q576VWZ/ref=asc_df_B07Q576VWZ) (we used a MELIFE DEVKITV1 but any should work)
 * [Wires](https://www.crystalfontz.com/product/wrjmpy40)
